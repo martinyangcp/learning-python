@@ -1,0 +1,12 @@
+import turtle
+turtle.shape("turtle")
+turtle.circle(50)
+turtle.up()
+turtle.goto(100,0)
+turtle.down()
+turtle.circle(70)
+turtle.up()
+turtle.goto(200,0)
+turtle.down()
+turtle.circle(90)
+turtle.done()
