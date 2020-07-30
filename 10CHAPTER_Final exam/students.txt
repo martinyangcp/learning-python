@@ -1,0 +1,7 @@
+Sam	27      A  B C  A  B
+	Lee        18	A A  B  C  A
+Kim    30 	B  C D  B   B
+  Pack	28	C   C A D  A
+ Lim	   	21	D  C  D  A B
+  Jeong     22	B A   C  B A
+Kang		20      B  B  C  C A
